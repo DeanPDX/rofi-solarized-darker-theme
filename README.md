@@ -3,6 +3,8 @@ A [rofi](https://github.com/DaveDavenport/rofi) theme based on the [Solarized](h
 
 ![Example](sample.png)
 
+Note that I'm showing 15 lines and using `System San Francisco Display 18` as my font (see installation notes for additional info).
+
 ## Installation
 Assuming you have the latest version of rofi properly installed, you can install/update this theme using the following command:
 
